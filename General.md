@@ -8,6 +8,14 @@
 
 对经典算法会进行代码demo实现 实践是最好的学习
 
+#### Resources
+
+Open-AI Spinning Up: https://spinningup.openai.com/en/latest/
+
+西湖大学 强化学习的数学原理: https://www.icourse163.org/course/XHUN-1470436188
+
+bilibili rethinkFun: https://space.bilibili.com/18235884
+
 #### Math
 
 手头的事情结束后会系统复习一次数学 现阶段, 问题遇到一个解决一个
